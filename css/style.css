@@ -51,9 +51,13 @@
 
 .card-img{
     width: 100%;
-    border: 1px solid black;
 }
 
-.rounded-border{
-    border-radius: 20px;
+.message{
+    height: 150px;
+}
+
+.send-button{
+    background-color: #1abc9c;
+    color: white;
 }
