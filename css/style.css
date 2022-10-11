@@ -1,0 +1,59 @@
+.blue-bg{
+    background-color: #2c3e50;
+}
+
+.green-bg{
+    background-color: #1abc9c;
+}
+
+.white{
+    color: white;
+}
+
+.blue{
+    color: #2c3e50;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.middle{
+    align-self: center;
+}
+
+.text-double{
+    font-size: 1.5rem;
+}
+
+.bolder{
+    font-weight: bolder;
+}
+
+.center{
+    justify-content: center;
+}
+
+.line{
+    width: 50px;
+    border: 2px solid;
+    background-color: white;
+    height: 2px;
+}
+
+.flex{
+    display: flex;
+}
+
+.card-img{
+    width: 100%;
+    border: 1px solid black;
+}
+
+.rounded-border{
+    border-radius: 20px;
+}
