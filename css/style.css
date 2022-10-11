@@ -6,6 +6,10 @@
     background-color: #1abc9c;
 }
 
+.lighter-blue-bg{
+    background-color: #3a546d;
+}
+
 .white{
     color: white;
 }
@@ -14,8 +18,16 @@
     color: #2c3e50;
 }
 
+.green{
+    color: #1abc9c;
+}
+
 .uppercase{
     text-transform: uppercase;
+}
+
+.capitalize{
+    text-transform: capitalize;
 }
 
 .bold{
@@ -60,4 +72,8 @@
 .send-button{
     background-color: #1abc9c;
     color: white;
+}
+
+.smaller-text{
+    font-size: 0.8rem;
 }
