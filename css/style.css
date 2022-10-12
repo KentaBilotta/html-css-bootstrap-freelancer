@@ -70,14 +70,6 @@
     color: white;
 }
 
-.download-button{
-    width: fit-content;
-    border: 1px solid white;
-    padding: 10px;
-    border-radius: 10px;
-    margin: auto;
-}
-
 .smaller-text{
     font-size: 0.8rem;
 }
@@ -140,6 +132,12 @@
 .select:hover{
     opacity: 1;
     cursor: pointer;
+}
+
+.info{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid lightgrey;
 }
 
 @media screen and (max-width: 768px){
