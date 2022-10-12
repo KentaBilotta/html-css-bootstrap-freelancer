@@ -96,3 +96,32 @@
     border: 1px solid;
     border-radius: 50%;
 }
+
+.menu-options{
+    display: flex;
+    justify-content: center;
+}
+
+.option{
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+}
+
+.option:hover{
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px){
+    .menu-options{
+        display: none;
+    }  
+}
+
+@media screen and (min-width: 768px){
+    .menu-icon{
+        display: none;
+    }
+}
