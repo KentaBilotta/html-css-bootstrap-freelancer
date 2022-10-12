@@ -74,6 +74,25 @@
     color: white;
 }
 
+.download-button{
+    width: fit-content;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+}
+
 .smaller-text{
     font-size: 0.8rem;
+}
+
+.avatar{
+    max-width: 250px;
+}
+
+.fa-brands{
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid;
+    border-radius: 50%;
 }
